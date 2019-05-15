@@ -1,4 +1,3 @@
-# flutter_start
 Flutter 学习工程，参考 https://flutter.dev/docs/get-started/codelab
 
 ## Flutter 简介及开发环境搭建
@@ -36,9 +35,9 @@ Windows平台下安装，Mac和Linux平台可参考：https://flutter.dev/docs/g
 3. 保存修改，可以看到App上上述修改立即生效，无需重启App或重新编译代码
 
 ### 发布模式运行
-到目前为止，都是在调试模式下运行应用，以使用代码热加载等功能，如果需要在发布模式下运行应用，通过命令行终端执行：
+到目前为止，App都是在调试模式下运行，调试模式下可以使用代码热加载等功能来提升开发效率，但是会影响App的运行表现。如果想要查看App的实际运行表现，需要在发布模式下运行应用，通过命令行终端执行：
 `flutter run --profile`
-等待编译完成，App启动，页面右上角的Debug标识消失，完成！
+等待编译完成，App启动，页面右上角的Debug标识消失，表明应用已处于发布模式运行
 
 ### 更新Flutter
 在Flutter工程根目录下，通过命令行终端执行:
