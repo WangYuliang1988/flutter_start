@@ -1,6 +1,6 @@
 Flutter 学习工程，参考 https://flutter.dev/docs/get-started/codelab
 
-## Flutter 简介及开发环境搭建
+## Flutter简介及开发环境搭建
 
 ### Flutter简介
 Flutter是谷歌推出的UI框架，最初的目的是为iOS和Android构建高质量的原生应用，目前已经演变成为支持移动设备（Android、iOS）、网页（Web）、桌面电脑（Windows、MacOS、Linux）、嵌入式设备的全平台UI框架。
