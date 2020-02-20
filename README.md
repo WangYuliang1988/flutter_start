@@ -40,3 +40,6 @@ Windows平台下安装，Mac和Linux平台可参考：https://flutter.dev/docs/g
 
 ### 更新Flutter
 在Flutter工程根目录下，通过命令行终端执行：`flutter upgrade` 即可更新Flutter SDK及Flutter工程依赖的各种包
+
+### 常见问题
+1. 外部package无法找到：在命令行中输入`flutter pub get`，然后重开一下VS Code，查看问题是否解决
